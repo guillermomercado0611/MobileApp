@@ -1,0 +1,8 @@
+body {
+    background-color: blue;
+}
+
+div, iframe {
+    text-align: center;
+    margin: auto;
+}
